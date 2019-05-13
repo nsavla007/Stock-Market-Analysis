@@ -12,7 +12,7 @@ Open-High-Low-Close attributes used to illustrate movements in the price of a fi
 A candlestick is a type of price chart used that displays the high, low, open and closing prices of a security for a specific period. It originated from Japanese rice merchants and traders to track market prices and daily momentum hundreds of years before becoming popularized in the United States. The wide part of the candlestick is called the "real body" and tells investors whether the closing price was higher or lower than the opening price (black/red if the stock closed lower, white/green if the stock closed higher).
 
 Keywords: Candlestick Charts, Stock Open/High & Close/Open Data, Tableau, Butterfly Chart, Lollipop Chart, Line and Bar Charts.
-
+Test
 REFERENCES
 1.	Understanding candlestick patterns and formation. https://stockcharts.com/school/doku.php?id=chart_school:chart_analysis:introduction_to_candlesticks
 2.	Butterfly chart explanation and concepts 
